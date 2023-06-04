@@ -1,4 +1,4 @@
-cd C:\Users\HP\Desktop\Programowanie_Python
+cd C:\Users\HP\Desktop\LabiTaur-2023
 
 .\new_env\Scripts\activate
 

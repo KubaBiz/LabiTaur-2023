@@ -3,8 +3,10 @@
 from shutil import move
 from os import mkdir
 
+
 def makeDir():
     mkdir("data")
+
 
 def moveData():
     move("icon.png", "data")
