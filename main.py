@@ -15,10 +15,6 @@ def main():
     Game.run()
 
 
-def lol():
-    print("doing something")
-
-
 if __name__ == "__main__":
     main()
     

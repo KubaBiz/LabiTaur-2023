@@ -1,0 +1,13 @@
+Co było zrobione dobrze:
+- Generacja mapy, korzystanie z wbudowanych funkcji, zamiast tworzenie od podstaw własnych - były bardziej zoptymalizowane.
+- Nazewnictwo funkcji, dzięki czytelności i prostym nazwom, można łatwo zrozumieć co się dzieje w kodzie.
+- Nie opieranie się w dużym stopniu na zewnętrznych bibliotekach, przez co instalacja na innych komputerach przebiegałaby sprawnie.
+
+Co można było zrobić lepiej:
+- Nie zaczynać projektu od tworzenia instalatora, który w trakcie zwiększania się projektu trzeba cały czas aktualizować.
+- Stworzyć więcej interakcji człowiek-komputer. Pomysł na grę dobry, ale gra była monotonna w labiryncie, najczęstszym punkcie gry.
+
+Czego się nauczyłem:
+- Utrwalenie wiedzy o hashmapie i korzystanie z niej - wcześniej nie byłem skory do wykorzystania jej funkcjonalności.
+- Tworzenie projektów w Pythonie z wieloma plikami - nie okazało się to zbyt trudne, jak się wydawało.
+- Projekt, nawet samodzielny, jeśli tylko jest tworzony systematycznie, może osiągnąć sporych rozmiarów i być dobrze wykonany.
